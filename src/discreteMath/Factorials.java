@@ -1,5 +1,9 @@
 package discreteMath;
 
+/**
+ * This will do factorials for n value
+ */
+
 import java.util.*;
 
 
